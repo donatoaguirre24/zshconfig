@@ -34,4 +34,4 @@ To install the plugins, you will need to install `oh-my-zsh`. Instructions are p
 ###Plugins and Themes
 
 To see which plugins do I use, read the `zshrc` file.  
-I you want install other plugins or themes you should read the [oh-my-zsh README][oh-my-zsh-readme].
+I you want install other plugins or themes you should read the [oh-my-zsh README][oh-my-zsh-readme] and [Plugins Overview](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview).
