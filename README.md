@@ -7,7 +7,7 @@ My public zshrc (Zsh config) backup
 If necessary, follow these steps to install Zsh:
 
 1. There are two main ways to install Zsh
-  - with the package manager of your choice, _e.g._ `sudo apt-get install zsh` (see [below for more examples](#howto-install-zsh-in-many-platforms))
+  - with the package manager of your choice, _e.g._ `sudo apt-get install zsh`
   - from [source](http://zsh.sourceforge.net/Arc/source.html), following
         [instructions from the Zsh FAQ](http://zsh.sourceforge.net/FAQ/zshfaq01.html#l7)
 2. Verify installation by running `zsh --version`. Expected result: `zsh 5.1.1` or more recent.
@@ -21,7 +21,8 @@ If necessary, follow these steps to install Zsh:
 
 * **Linux or MacOS X**
 * **Zsh shell**
-* **Oh My Zsh Framework**
+* **[Powerlevel9k Theme][Powerlevel9k]**
+* **[Oh My Zsh Framework][oh-my-zsh]**
 * **Git**
 
 ### Manual set up
@@ -29,9 +30,11 @@ If necessary, follow these steps to install Zsh:
 Download or clone the project and put it on `~/.zshrc` located on you personal folder.  
 To install the plugins, you will need to install `oh-my-zsh`. Instructions are present on [his README][oh-my-zsh-readme].
 
-[oh-my-zsh-readme]: https://github.com/robbyrussell/oh-my-zsh/blob/master/README.md#getting-started
-
 ###Plugins and Themes
 
 To see which plugins do I use, read the `zshrc` file.  
 I you want install other plugins or themes you should read the [oh-my-zsh README][oh-my-zsh-readme] and [Plugins Overview](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview).
+
+[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
+[oh-my-zsh-readme]: https://github.com/robbyrussell/oh-my-zsh/blob/master/README.md#getting-started
+[Powerlevel9k]: https://github.com/bhilburn/powerlevel9k
