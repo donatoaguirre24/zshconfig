@@ -35,6 +35,6 @@ To install the plugins, you will need to install `oh-my-zsh`. Instructions are p
 To see which plugins do I use, read the `zshrc` file.  
 I you want install other plugins or themes you should read the [oh-my-zsh README][oh-my-zsh-readme] and [Plugins Overview](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview).
 
-[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
+[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
 [oh-my-zsh-readme]: https://github.com/robbyrussell/oh-my-zsh/blob/master/README.md#getting-started
 [Powerlevel9k]: https://github.com/bhilburn/powerlevel9k
