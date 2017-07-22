@@ -21,7 +21,7 @@ If necessary, follow these steps to install Zsh:
 
 * **Linux or MacOS X**
 * **Zsh shell**
-* **[Powerlevel9k Theme][Powerlevel9k]**
+* **[Spaceship theme][spaceship]**
 * **[Oh My Zsh Framework][oh-my-zsh]**
 * **Git**
 
@@ -37,4 +37,4 @@ I you want install other plugins or themes you should read the [oh-my-zsh README
 
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
 [oh-my-zsh-readme]: https://github.com/robbyrussell/oh-my-zsh/blob/master/README.md#getting-started
-[Powerlevel9k]: https://github.com/bhilburn/powerlevel9k
+[spaceship]: https://git.io/spaceship
