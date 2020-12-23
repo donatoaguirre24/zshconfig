@@ -12,7 +12,6 @@
 ### Plugins
 
 - [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git/)
-- [zsh-nvm](https://github.com/lukechilds/zsh-nvm)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
